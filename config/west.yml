@@ -52,7 +52,7 @@ manifest:
       url: https://github.com/cormoran/zmk-behavior-runtime-sensor-rotate
       path: modules/zmk-behavior-runtime-sensor-rotate
     - name: zmk-module-ble-management
-      revision: main
+      revision: 851661cd21f2aded8ec649da86e01a207dc4b973
       url: https://github.com/cormoran/zmk-module-ble-management
       path: modules/zmk-module-ble-management
     - name: zmk-module-settings-rpc

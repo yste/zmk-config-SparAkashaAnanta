@@ -304,11 +304,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="214.586" y="147.682">LANG1</text>
 </g>
 <g class="combo combo-LANG_JA">
-<polyline points="559.301,178.648 609.543,165.276"/>
-<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
-<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
-<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="584.422" y="152.276">LANG2</text>
+<polyline points="549.437,123.158 599.665,109.699"/>
+<circle class="combo-dot" cx="549.437" cy="123.158" r="3.2"/>
+<circle class="combo-dot" cx="599.665" cy="109.699" r="3.2"/>
+<rect class="combo-label-bg" x="552.051" y="88.699" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="574.551" y="96.699">LANG2</text>
 </g>
 </g>
 <g class="layer layer-function_layer" transform="translate(0 478.676)">
@@ -588,11 +588,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="214.586" y="147.682">LANG1</text>
 </g>
 <g class="combo combo-LANG_JA">
-<polyline points="559.301,178.648 609.543,165.276"/>
-<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
-<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
-<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="584.422" y="152.276">LANG2</text>
+<polyline points="549.437,123.158 599.665,109.699"/>
+<circle class="combo-dot" cx="549.437" cy="123.158" r="3.2"/>
+<circle class="combo-dot" cx="599.665" cy="109.699" r="3.2"/>
+<rect class="combo-label-bg" x="552.051" y="88.699" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="574.551" y="96.699">LANG2</text>
 </g>
 </g>
 <g class="layer layer-num_layer" transform="translate(0 957.352)">
@@ -873,11 +873,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="214.586" y="147.682">LANG1</text>
 </g>
 <g class="combo combo-LANG_JA">
-<polyline points="559.301,178.648 609.543,165.276"/>
-<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
-<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
-<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="584.422" y="152.276">LANG2</text>
+<polyline points="549.437,123.158 599.665,109.699"/>
+<circle class="combo-dot" cx="549.437" cy="123.158" r="3.2"/>
+<circle class="combo-dot" cx="599.665" cy="109.699" r="3.2"/>
+<rect class="combo-label-bg" x="552.051" y="88.699" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="574.551" y="96.699">LANG2</text>
 </g>
 </g>
 <g class="layer layer-mouse_layer" transform="translate(0 1436.028)">
@@ -1160,11 +1160,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="214.586" y="147.682">LANG1</text>
 </g>
 <g class="combo combo-LANG_JA">
-<polyline points="559.301,178.648 609.543,165.276"/>
-<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
-<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
-<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="584.422" y="152.276">LANG2</text>
+<polyline points="549.437,123.158 599.665,109.699"/>
+<circle class="combo-dot" cx="549.437" cy="123.158" r="3.2"/>
+<circle class="combo-dot" cx="599.665" cy="109.699" r="3.2"/>
+<rect class="combo-label-bg" x="552.051" y="88.699" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="574.551" y="96.699">LANG2</text>
 </g>
 </g>
 <g class="layer layer-scroll_layer" transform="translate(0 1914.704)">
@@ -1447,11 +1447,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="214.586" y="147.682">LANG1</text>
 </g>
 <g class="combo combo-LANG_JA">
-<polyline points="559.301,178.648 609.543,165.276"/>
-<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
-<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
-<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="584.422" y="152.276">LANG2</text>
+<polyline points="549.437,123.158 599.665,109.699"/>
+<circle class="combo-dot" cx="549.437" cy="123.158" r="3.2"/>
+<circle class="combo-dot" cx="599.665" cy="109.699" r="3.2"/>
+<rect class="combo-label-bg" x="552.051" y="88.699" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="574.551" y="96.699">LANG2</text>
 </g>
 </g>
 <g class="layer layer-bt_layer" transform="translate(0 2393.38)">
@@ -1738,11 +1738,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="214.586" y="147.682">LANG1</text>
 </g>
 <g class="combo combo-LANG_JA">
-<polyline points="559.301,178.648 609.543,165.276"/>
-<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
-<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
-<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="584.422" y="152.276">LANG2</text>
+<polyline points="549.437,123.158 599.665,109.699"/>
+<circle class="combo-dot" cx="549.437" cy="123.158" r="3.2"/>
+<circle class="combo-dot" cx="599.665" cy="109.699" r="3.2"/>
+<rect class="combo-label-bg" x="552.051" y="88.699" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="574.551" y="96.699">LANG2</text>
 </g>
 </g>
 </svg>

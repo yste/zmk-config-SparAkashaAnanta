@@ -95,8 +95,7 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 </g>
 <g class="key keypos-12 " transform="translate(39.136 123.796) rotate(5 0 -52)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="20">LCTL</text>
-<text class="hold" x="26" y="37">kq</text>
+<text class="tap" x="26" y="26">LCTRL</text>
 </g>
 <g class="key keypos-13 " transform="translate(91.136 123.796) rotate(5 -52 -52)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
@@ -290,11 +289,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="187.484" y="147.682">TAB</text>
 </g>
 <g class="combo combo-shifttab">
-<polyline points="161.645,160.682 267.527,178.734"/>
-<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<polyline points="213.323,165.509 267.527,178.734"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
 <circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
-<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+<rect class="combo-label-bg" x="211.725" y="144.509" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="240.425" y="152.509">LS(TAB)</text>
 </g>
 <g class="combo combo-LANG_EN">
 <polyline points="559.301,178.648 609.543,165.276"/>
@@ -574,11 +573,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="187.484" y="147.682">TAB</text>
 </g>
 <g class="combo combo-shifttab">
-<polyline points="161.645,160.682 267.527,178.734"/>
-<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<polyline points="213.323,165.509 267.527,178.734"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
 <circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
-<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+<rect class="combo-label-bg" x="211.725" y="144.509" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="240.425" y="152.509">LS(TAB)</text>
 </g>
 <g class="combo combo-LANG_EN">
 <polyline points="559.301,178.648 609.543,165.276"/>
@@ -859,11 +858,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="187.484" y="147.682">TAB</text>
 </g>
 <g class="combo combo-shifttab">
-<polyline points="161.645,160.682 267.527,178.734"/>
-<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<polyline points="213.323,165.509 267.527,178.734"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
 <circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
-<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+<rect class="combo-label-bg" x="211.725" y="144.509" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="240.425" y="152.509">LS(TAB)</text>
 </g>
 <g class="combo combo-LANG_EN">
 <polyline points="559.301,178.648 609.543,165.276"/>
@@ -1146,11 +1145,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="187.484" y="147.682">TAB</text>
 </g>
 <g class="combo combo-shifttab">
-<polyline points="161.645,160.682 267.527,178.734"/>
-<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<polyline points="213.323,165.509 267.527,178.734"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
 <circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
-<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+<rect class="combo-label-bg" x="211.725" y="144.509" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="240.425" y="152.509">LS(TAB)</text>
 </g>
 <g class="combo combo-LANG_EN">
 <polyline points="559.301,178.648 609.543,165.276"/>
@@ -1433,11 +1432,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="187.484" y="147.682">TAB</text>
 </g>
 <g class="combo combo-shifttab">
-<polyline points="161.645,160.682 267.527,178.734"/>
-<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<polyline points="213.323,165.509 267.527,178.734"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
 <circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
-<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+<rect class="combo-label-bg" x="211.725" y="144.509" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="240.425" y="152.509">LS(TAB)</text>
 </g>
 <g class="combo combo-LANG_EN">
 <polyline points="559.301,178.648 609.543,165.276"/>
@@ -1724,11 +1723,11 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <text class="combo-label" x="187.484" y="147.682">TAB</text>
 </g>
 <g class="combo combo-shifttab">
-<polyline points="161.645,160.682 267.527,178.734"/>
-<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<polyline points="213.323,165.509 267.527,178.734"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
 <circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
-<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
-<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+<rect class="combo-label-bg" x="211.725" y="144.509" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="240.425" y="152.509">LS(TAB)</text>
 </g>
 <g class="combo combo-LANG_EN">
 <polyline points="559.301,178.648 609.543,165.276"/>

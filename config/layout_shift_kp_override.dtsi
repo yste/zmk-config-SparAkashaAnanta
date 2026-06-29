@@ -1,0 +1,11 @@
+// Stub for keymap-editor compatibility.
+// The real file is provided by the zmk-layout-shift west module at build time.
+
+/ {
+    behaviors {
+        tog_ls: toggle_layout_shift {
+            compatible = "zmk,behavior-tog-ls";
+            #binding-cells = <0>;
+        };
+    };
+};

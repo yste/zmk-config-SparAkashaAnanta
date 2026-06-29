@@ -44,12 +44,12 @@
         LANG_EN {
             bindings = <&kp LANG1>;
             key-positions = <15 16>;
-        }
+        };
 
         LANG_JA {
             bindings = <&kp LANG2>;
-            key-positions = <19 20>;
-        }
+            key-positions = <7 8>;
+        };
     };
 
     keymap {

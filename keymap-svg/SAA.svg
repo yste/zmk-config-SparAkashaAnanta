@@ -91,12 +91,12 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 </g>
 <g class="key keypos-11 " transform="translate(751.536 292.796) rotate(-15 -832 0)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="26">BKSP</text>
+<text class="tap" x="26" y="26">=</text>
 </g>
 <g class="key keypos-12 " transform="translate(39.136 123.796) rotate(5 0 -52)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="20">ESC</text>
-<text class="hold" x="26" y="37">LT BT</text>
+<text class="tap" x="26" y="20">LCTL</text>
+<text class="hold" x="26" y="37">kq</text>
 </g>
 <g class="key keypos-13 " transform="translate(91.136 123.796) rotate(5 -52 -52)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
@@ -141,7 +141,7 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <g class="key keypos-23 " transform="translate(735.416 200.756) rotate(-5 -832 -52)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
 <text class="tap" x="26" y="20">&#x27;</text>
-<text class="hold" x="26" y="37">LT MOUSE</text>
+<text class="hold" x="26" y="37">RCTRL</text>
 </g>
 <g class="key keypos-24 " transform="translate(20.936 184.636) rotate(-5 0 -104)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
@@ -185,7 +185,7 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 </g>
 <g class="key keypos-34 " transform="translate(701.616 116.516) rotate(5 -780 -104)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="26">UP</text>
+<text class="tap" x="26" y="26">SLASH</text>
 </g>
 <g class="key keypos-35 " transform="translate(753.616 107.676) rotate(5 -832 -104)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
@@ -193,16 +193,15 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 </g>
 <g class="key keypos-36 " transform="translate(-4.544 259.516) rotate(-15 0 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="20">ESC</text>
-<text class="hold" x="26" y="37">LCTL</text>
+<text class="tap" x="26" y="26">ESC</text>
 </g>
 <g class="key keypos-37 " transform="translate(45.896 277.716) rotate(-15 -52 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="26">LGUI</text>
+<text class="tap" x="26" y="26">LALT</text>
 </g>
 <g class="key keypos-38 " transform="translate(102.576 295.396) rotate(-15 -104 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="26">LALT</text>
+<text class="tap" x="26" y="26">LGUI</text>
 </g>
 <g class="key keypos-39 " transform="translate(297.056 276.676) rotate(0 -299 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
@@ -211,17 +210,16 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 </g>
 <g class="key keypos-40 " transform="translate(349.056 276.676) rotate(0 -351 -169)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="20">SPC</text>
+<text class="tap" x="26" y="20">BKSP</text>
 <text class="hold" x="26" y="37">LT FUNC</text>
 </g>
 <g class="key keypos-41 " transform="translate(427.056 276.676) rotate(0 -481 -169)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="20">SPC</text>
-<text class="hold" x="26" y="37">LT FUNC</text>
+<text class="tap" x="26" y="26">RGUI</text>
 </g>
 <g class="key keypos-42 " transform="translate(479.056 276.676) rotate(0 -533 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
-<text class="tap" x="26" y="20">SPC</text>
+<text class="tap" x="26" y="20">ENTER</text>
 <text class="hold" x="26" y="37">LT NUM</text>
 </g>
 <g class="key keypos-43 " transform="translate(698.496 66.596) rotate(15 -728 -156)">
@@ -283,6 +281,34 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <g class="key keypos-57 " transform="translate(627.256 315.676) rotate(0 -655.2 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
 <text class="tap" x="26" y="26">B</text>
+</g>
+<g class="combo combo-tab">
+<polyline points="213.323,165.509 161.645,160.682"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<rect class="combo-label-bg" x="171.184" y="139.682" width="32.6" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="187.484" y="147.682">TAB</text>
+</g>
+<g class="combo combo-shifttab">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+</g>
+<g class="combo combo-LANG_EN">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="192.086" y="139.682" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LANG1</text>
+</g>
+<g class="combo combo-LANG_JA">
+<polyline points="559.301,178.648 609.543,165.276"/>
+<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
+<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
+<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="584.422" y="152.276">LANG2</text>
 </g>
 </g>
 <g class="layer layer-function_layer" transform="translate(0 478.676)">
@@ -540,6 +566,34 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
 <text class="tap" x="26" y="26">B</text>
 </g>
+<g class="combo combo-tab">
+<polyline points="213.323,165.509 161.645,160.682"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<rect class="combo-label-bg" x="171.184" y="139.682" width="32.6" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="187.484" y="147.682">TAB</text>
+</g>
+<g class="combo combo-shifttab">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+</g>
+<g class="combo combo-LANG_EN">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="192.086" y="139.682" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LANG1</text>
+</g>
+<g class="combo combo-LANG_JA">
+<polyline points="559.301,178.648 609.543,165.276"/>
+<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
+<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
+<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="584.422" y="152.276">LANG2</text>
+</g>
 </g>
 <g class="layer layer-num_layer" transform="translate(0 957.352)">
 <text class="title" x="30" y="10">Num</text>
@@ -796,6 +850,34 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <g class="key keypos-57 " transform="translate(627.256 315.676) rotate(0 -655.2 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
 <text class="tap" x="26" y="26">B</text>
+</g>
+<g class="combo combo-tab">
+<polyline points="213.323,165.509 161.645,160.682"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<rect class="combo-label-bg" x="171.184" y="139.682" width="32.6" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="187.484" y="147.682">TAB</text>
+</g>
+<g class="combo combo-shifttab">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+</g>
+<g class="combo combo-LANG_EN">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="192.086" y="139.682" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LANG1</text>
+</g>
+<g class="combo combo-LANG_JA">
+<polyline points="559.301,178.648 609.543,165.276"/>
+<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
+<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
+<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="584.422" y="152.276">LANG2</text>
 </g>
 </g>
 <g class="layer layer-mouse_layer" transform="translate(0 1436.028)">
@@ -1056,6 +1138,34 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
 <text class="tap" x="26" y="26">B</text>
 </g>
+<g class="combo combo-tab">
+<polyline points="213.323,165.509 161.645,160.682"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<rect class="combo-label-bg" x="171.184" y="139.682" width="32.6" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="187.484" y="147.682">TAB</text>
+</g>
+<g class="combo combo-shifttab">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+</g>
+<g class="combo combo-LANG_EN">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="192.086" y="139.682" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LANG1</text>
+</g>
+<g class="combo combo-LANG_JA">
+<polyline points="559.301,178.648 609.543,165.276"/>
+<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
+<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
+<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="584.422" y="152.276">LANG2</text>
+</g>
 </g>
 <g class="layer layer-scroll_layer" transform="translate(0 1914.704)">
 <text class="title" x="30" y="10">Scr</text>
@@ -1314,6 +1424,34 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <g class="key keypos-57 " transform="translate(627.256 315.676) rotate(0 -655.2 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
 <text class="tap" x="26" y="26">B</text>
+</g>
+<g class="combo combo-tab">
+<polyline points="213.323,165.509 161.645,160.682"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<rect class="combo-label-bg" x="171.184" y="139.682" width="32.6" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="187.484" y="147.682">TAB</text>
+</g>
+<g class="combo combo-shifttab">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+</g>
+<g class="combo combo-LANG_EN">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="192.086" y="139.682" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LANG1</text>
+</g>
+<g class="combo combo-LANG_JA">
+<polyline points="559.301,178.648 609.543,165.276"/>
+<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
+<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
+<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="584.422" y="152.276">LANG2</text>
 </g>
 </g>
 <g class="layer layer-bt_layer" transform="translate(0 2393.38)">
@@ -1577,6 +1715,34 @@ svg.physical-layout { font-family: ui-monospace, SFMono-Regular, Consolas, monos
 <g class="key keypos-57 " transform="translate(627.256 315.676) rotate(0 -655.2 -156)">
 <rect x="0" y="0" width="52" height="52" rx="6" ry="6"/>
 <text class="tap" x="26" y="26">B</text>
+</g>
+<g class="combo combo-tab">
+<polyline points="213.323,165.509 161.645,160.682"/>
+<circle class="combo-dot" cx="213.323" cy="165.509" r="3.2"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<rect class="combo-label-bg" x="171.184" y="139.682" width="32.6" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="187.484" y="147.682">TAB</text>
+</g>
+<g class="combo combo-shifttab">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="185.886" y="139.682" width="57.4" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LS(TAB)</text>
+</g>
+<g class="combo combo-LANG_EN">
+<polyline points="161.645,160.682 267.527,178.734"/>
+<circle class="combo-dot" cx="161.645" cy="160.682" r="3.2"/>
+<circle class="combo-dot" cx="267.527" cy="178.734" r="3.2"/>
+<rect class="combo-label-bg" x="192.086" y="139.682" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="214.586" y="147.682">LANG1</text>
+</g>
+<g class="combo combo-LANG_JA">
+<polyline points="559.301,178.648 609.543,165.276"/>
+<circle class="combo-dot" cx="559.301" cy="178.648" r="3.2"/>
+<circle class="combo-dot" cx="609.543" cy="165.276" r="3.2"/>
+<rect class="combo-label-bg" x="561.922" y="144.276" width="45" height="16" rx="8" ry="8"/>
+<text class="combo-label" x="584.422" y="152.276">LANG2</text>
 </g>
 </g>
 </svg>

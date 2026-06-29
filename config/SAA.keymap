@@ -43,7 +43,7 @@
 
         LANG_EN {
             bindings = <&kp LANG1>;
-            key-positions = <15 16>;
+            key-positions = <19 20>;
         };
 
         LANG_JA {

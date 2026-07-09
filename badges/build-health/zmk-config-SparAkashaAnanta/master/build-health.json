@@ -2,12 +2,12 @@
   "repository": "yste/zmk-config-SparAkashaAnanta",
   "branch": "master",
   "target": "all",
-  "status": "passing",
-  "raw_status": "success",
-  "color": "#2ea44f",
-  "sha": "7aa037466a71f72c526ad2615ecc4a49c3fd9d37",
-  "run_id": "28975894422",
-  "run_number": "13",
-  "run_url": "https://github.com/yste/zmk-config-SparAkashaAnanta/actions/runs/28975894422",
-  "generated_at": "2026-07-08T21:16:56Z"
+  "status": "cancelled",
+  "raw_status": "cancelled",
+  "color": "#6a737d",
+  "sha": "682161354fdc0ac801b2c97cf2dcae2b6b601913",
+  "run_id": "29030388030",
+  "run_number": "14",
+  "run_url": "https://github.com/yste/zmk-config-SparAkashaAnanta/actions/runs/29030388030",
+  "generated_at": "2026-07-09T15:45:19Z"
 }

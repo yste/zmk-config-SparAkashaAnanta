@@ -32,8 +32,8 @@
 		keys  //                     w   h    x    y     rot    rx    ry
 			= <&key_physical_attrs 100 100  149 (-183)    1500   149 (-183)>
 			, <&key_physical_attrs 100 100  252 (-200)    1500   152 (-200)>
-			, <&key_physical_attrs 100 100  454 (-209)    1500   254 (-209)>
 			, <&key_physical_attrs 100 100  358 (-243)    1500    58 (-243)>
+			, <&key_physical_attrs 100 100  454 (-209)    1500   254 (-209)>
 			, <&key_physical_attrs 100 100  566 (-235)    1500   166 (-235)>
 			, <&key_physical_attrs 100 100  671 (-235)    1500   171 (-235)>
 			, <&key_physical_attrs 100 100  987  205 (-1500) (-113)   205>

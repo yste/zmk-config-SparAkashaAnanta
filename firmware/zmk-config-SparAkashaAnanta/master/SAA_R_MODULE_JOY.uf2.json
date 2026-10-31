@@ -5,7 +5,7 @@
   },
   "generated": {
     ".config": "e3eaa281806aed8d9039b06990c0ecd648ae86115b25dd6db0734015c40d4e79",
-    "zephyr.dts": "7e36bed6255c15f90904837a00a82d47643de9396db09ad4d3fa7cfc3b7f8666"
+    "zephyr.dts": "21a0ca9d713dc9afdcc2668cf29a0d04127a0d84353a1d4fcdc8c816d00e99f9"
   },
   "inputs": {
     "dependencies": {
@@ -347,7 +347,7 @@
       }
     },
     "source": {
-      "commit": "cde0922b1fcd58ffa284208234afb891a84e5f87",
+      "commit": "fc48ab5d12898b2f15e7c87bb53bf31703027cfc",
       "diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "dirty": false,
       "untracked": {}
@@ -359,7 +359,7 @@
       "untracked": {}
     }
   },
-  "run_id": "39609777261",
+  "run_id": "41218225149",
   "schema": 1,
   "target": {
     "artifact-name": "SAA_R_MODULE_JOY",
